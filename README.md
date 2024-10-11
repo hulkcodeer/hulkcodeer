@@ -1,52 +1,57 @@
 
 <!--내용 부분-->
 
-<h3 align="center">✨ Mobile Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-</div>
+# 내 앱 포트폴리오
 
-<br/>
+제가 지금까지 출시한 앱들의 목록입니다. iOS와 Android 버전이 각각 제공됩니다.
 
-<h3 align="center">✨ Frontend Tech Stack ✨</h3>
-<div align="center">  
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-</div>
+## 1. 소라고둥님께 물어봐
 
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+결정장애 앱
 
-<br/>
-<h3 align="center">✨ Backend Tech Stack ✨</h3>
-<div align="center">  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
-</div>
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-<br>
+- [iOS 버전](https://apps.apple.com/kr/app/todo-zip/id6497788536)
+- [Android 버전](https://play.google.com/store/apps/details?id=com.mixdrops.tododotzip)
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/SwiftUI-524520?logo=swift"/>  
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>  
-</div>
+## 2. Todo.ZIP
 
-<br>
+집안일을 등록하고 관리하는 할일 기록 앱
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">  
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>&nbsp
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+- [iOS 버전](https://apps.apple.com/kr/app/todo-zip/id6497788536)
+- [Android 버전](https://play.google.com/store/apps/details?id=com.mixdrops.tododotzip)
+
+## 3. MAVI Diary
+
+감정 쓰레기통 기반의 일기장 앱
+
+![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+- [iOS 버전](https://apps.apple.com/us/app/mavi-diary/id6572300394)
+
+## 4. 스쿨워커
+
+학교별 걸음수 대결 앱
+
+- [iOS 버전](https://apps.apple.com/kr/app/%EC%8A%A4%EC%BF%A8%EC%9B%8C%EC%BB%A4/id6557081525)
+
+## 5. 3분생각
+
+하루에 3분은 생각을 합시다!
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+- [iOS 버전 제작중]
+- [Android 버전 제작중]
+
+---
+
+더 자세한 정보나 문의사항은 hulkcodeer@gmail.com 으로 연락 주세요.
 
 <br>
