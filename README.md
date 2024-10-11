@@ -52,8 +52,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- [iOS 버전 제작중]
-- [Android 버전 제작중]
+- [iOS 버전 심사중]
+- [Android 버전 심사중]
 
 ---
 
