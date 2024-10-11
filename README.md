@@ -5,6 +5,11 @@
 
 제가 지금까지 출시한 앱들의 목록입니다. iOS와 Android 버전이 각각 제공됩니다.
 
+## 소셜 미디어
+
+- [Instagram](https://www.instagram.com/mixdropsapp/)
+- [디스콰이엇](https://disquiet.io/@hulkcodeer)
+
 ## 1. 소라고둥님께 물어봐
 
 결정장애 앱
