@@ -11,8 +11,8 @@
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-- [iOS 버전](https://apps.apple.com/kr/app/todo-zip/id6497788536)
-- [Android 버전](https://play.google.com/store/apps/details?id=com.mixdrops.tododotzip)
+- [iOS 버전](https://apps.apple.com/kr/app/%EC%86%8C%EB%9D%BC%EA%B3%A0%EB%91%A5%EB%8B%98%EA%BB%98-%EB%AC%BC%EC%96%B4%EB%B4%90/id1588531143)
+- [Android 버전 심사중]
 
 ## 2. Todo.ZIP
 
