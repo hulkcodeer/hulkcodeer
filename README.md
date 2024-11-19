@@ -53,7 +53,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 - [iOS 버전](https://apps.apple.com/kr/app/3%EB%B6%84%EC%83%9D%EA%B0%81/id6736382533)
-- [Android 버전 심사중]
+- [Android 버전](https://play.google.com/store/apps/details?id=com.mixdrops.threeminthinking)
 
 ---
 
